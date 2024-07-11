@@ -79,3 +79,4 @@ echo IVAN
 echo IVAN
 echo $NAME
 cat
+cat name.txt
