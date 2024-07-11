@@ -47,3 +47,4 @@ echo freeCodeCamp > name.txt
 read name < stdin.txt
 read name < name.txt
 read NAME < name.txt
+echo $NAME
