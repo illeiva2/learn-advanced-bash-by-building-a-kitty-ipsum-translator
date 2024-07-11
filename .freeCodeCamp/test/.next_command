@@ -100,3 +100,4 @@ echo ivan
 echo ivan
 cat name.txt
 ./script.sh < name.txt
+./script.sh < name.txt 2> stderr.txt
