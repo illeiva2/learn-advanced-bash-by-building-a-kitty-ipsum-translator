@@ -98,3 +98,5 @@ chmod +x script.sh
 echo ivan
 echo ivan
 echo ivan
+cat name.txt
+./script.sh < name.txt
