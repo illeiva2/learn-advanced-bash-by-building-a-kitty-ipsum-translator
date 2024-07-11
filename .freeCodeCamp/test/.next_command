@@ -86,3 +86,5 @@ cat name.txt < name.txt
 cat < name.txt}
 cat < name.txt
 echo IVAN
+touch scriptsh
+touch script.sh
