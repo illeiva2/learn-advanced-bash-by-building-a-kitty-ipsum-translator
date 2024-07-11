@@ -88,3 +88,5 @@ cat < name.txt
 echo IVAN
 touch scriptsh
 touch script.sh
+chmod -x script.sh
+chmod +x script.sh
