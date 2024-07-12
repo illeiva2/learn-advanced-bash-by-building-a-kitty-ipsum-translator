@@ -356,3 +356,6 @@ echo -e "\nNumber of characters:" >> kitty_info.txt
 cat kitty_ipsum_2.txt
 grep meow[a-z]* kitty_ipsum_2.txt --color
 echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
+grep meow[a-z]* -o kitty_ipsum_2.txt
+grep meow[a-z]* -o kitty_ipsum_2.txt
+grep meow[a-z]* -o kitty_ipsum_2.txt
