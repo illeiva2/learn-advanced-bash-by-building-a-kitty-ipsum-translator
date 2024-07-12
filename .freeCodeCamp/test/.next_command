@@ -264,3 +264,5 @@ grep meow[a-z]* kitty_ipsum_1.txt -n
 grep meow[a-z]* kitty_ipsum_1.txt -n
 grep cat[a-z]* kitty_ipsum_1.txt
 grep cat[a-z]* kitty_ipsum_1.txt --color
+echo -e "Number of times cat, cats, or catnip appears:" >> kitty_info.txt
+echo -e "\nNumber of times cat, cats, or catnip appears:" >> kitty_info.txt
