@@ -167,3 +167,6 @@ grep 'meow' kitty_ipsum_1.txt
 man grep
 __vsc_prompt_cmd_original
 grep 'meow' kitty_ipsum_1.txt --color
+man grep
+grep 'meow' kitty_ipsum_1.txt --color -b
+grep 'meow' kitty_ipsum_1.txt --color -n
