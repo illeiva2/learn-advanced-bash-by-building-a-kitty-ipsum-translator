@@ -341,3 +341,9 @@ grep cat[a-z]* -n kitty_ipsum_1.txt
 echo -e "\n\n~~ kitty_ipsum_2.txt info ~~" >> kitty_info.txt
 echo -e "\nNumber of lines" >> kitty_info.txt
 echo -e "\nNumber of lines:" >> kitty_info.txt
+wc kitty_ipsum_2.txt -l >> kitty_info.txt
+wc kitty_ipsum_2.txt -l
+wc kitty_ipsum_2.txt -l
+wc kitty_ipsum_2.txt -l
+cat kitty_ipsum.txt
+cat kitty_ipsum_2.txt
