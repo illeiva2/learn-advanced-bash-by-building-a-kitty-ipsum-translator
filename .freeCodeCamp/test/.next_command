@@ -328,3 +328,5 @@ grep cat[a-z]* -o kitty_ipsum_1.txt
 grep cat[a-z]* -o kitty_ipsum_1.txt
 grep cat[a-z]* -o kitty_ipsum_1.txt
 grep cat[a-z]* -o kitty_ipsum_1.txt
+grep cat[a-z]* -o kitty_ipsum_1.txt
+grep cat[a-z]* -o kitty_ipsum_1.txt
