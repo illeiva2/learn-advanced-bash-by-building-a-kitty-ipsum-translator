@@ -380,3 +380,8 @@ echo kitty_ipsum.txt
 kitty_ipsum.txt
 cat kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_1.txt
+grep dogchow --color kitty_ipsump_2.txt
+grep dogchow --color kitty_ipsum_2.txt
+grep dogchow -hco[a-z]*lor kitty_ipsum_2.txt
+grep dogchow[a-z]* --color kitty_ipsum_2.txt
+./translate.sh kitty_ipsum_1.txt
