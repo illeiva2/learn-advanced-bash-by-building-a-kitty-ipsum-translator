@@ -338,3 +338,4 @@ grep cat -o kitty_ipsum_1.txt
 grep cat[a-z]* -n kitty_ipsum_1.txt
 grep cat[a-z]* -n kitty_ipsum_1.txt
 grep cat[a-z]* -n kitty_ipsum_1.txt
+echo -e "\n\n~~ kitty_ipsum_2.txt info ~~" >> kitty_info.txt
