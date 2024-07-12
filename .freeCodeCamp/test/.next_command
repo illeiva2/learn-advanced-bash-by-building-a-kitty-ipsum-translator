@@ -242,3 +242,7 @@ man grep
 cat name.txt
 sed 's/r/2/' name.txt
 sed 's/free/f233/' name.txt
+sed 's/freeCodeCamp/f233C0deC@amp/' name.txt
+sed 's/freeCodeCamp/f233C0d3C@amp/' name.txt
+sed 's/freecodecamp/f233C0d3C@amp/' name.txt
+sed 's/freecodecamp/f233C0d3C@mp/' name.txt
