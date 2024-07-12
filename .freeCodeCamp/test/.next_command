@@ -360,3 +360,6 @@ grep meow[a-z]* -o kitty_ipsum_2.txt
 grep meow[a-z]* -o kitty_ipsum_2.txt
 grep meow[a-z]* -o kitty_ipsum_2.txt
 echo -e "\nLines that they appear on:" >> kitty_info.txt
+grep meow[a-z]* -m kitty_ipsum_2.txt
+grep meow[a-z]* -n kitty_ipsum_2.txt
+grep meow[a-z]* -n kitty_ipsum_2.txt
