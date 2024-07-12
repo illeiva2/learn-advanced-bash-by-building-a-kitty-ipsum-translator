@@ -330,3 +330,5 @@ grep cat[a-z]* -o kitty_ipsum_1.txt
 grep cat[a-z]* -o kitty_ipsum_1.txt
 grep cat[a-z]* -o kitty_ipsum_1.txt
 grep cat[a-z]* -o kitty_ipsum_1.txt
+man sed
+echo -e "\nLines that they appear on:" >> kitty_info.txt
