@@ -372,3 +372,4 @@ grep cat[a-z]* -o kitty_ipsum_2.txt
 grep cat[a-z]* -o kitty_ipsum_2.txt
 echo -e "\nLines that they appear on:" >> kitty_info.txt
 grep cat[a-z]* -n kitty_ipsum_2.txt
+touch translate.sh
