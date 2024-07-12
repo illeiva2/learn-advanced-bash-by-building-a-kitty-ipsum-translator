@@ -363,3 +363,6 @@ echo -e "\nLines that they appear on:" >> kitty_info.txt
 grep meow[a-z]* -m kitty_ipsum_2.txt
 grep meow[a-z]* -n kitty_ipsum_2.txt
 grep meow[a-z]* -n kitty_ipsum_2.txt
+frep [cat]* --color kitty_ipsum_2.txt
+grep [cat]* --color kitty_ipsum_2.txt
+grep cat[a-z]* --color kitty_ipsum_2.txt
