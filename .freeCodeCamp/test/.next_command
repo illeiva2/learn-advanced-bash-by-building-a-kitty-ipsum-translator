@@ -140,3 +140,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 .
 .
 ./script.sh < name.txt 2> stderr.txt > stdout.txt
+cat kitty_ipsum_1.txt
