@@ -386,3 +386,4 @@ grep dogchow -hco[a-z]*lor kitty_ipsum_2.txt
 grep dogchow[a-z]* --color kitty_ipsum_2.txt
 ./translate.sh kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt
